@@ -1,4 +1,10 @@
 # SQL TASK - MUSIC STORE DATA ANALYSIS
+
+## Schema overview
+
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/c5b28a6b-321a-4612-96f1-37f1083e16d0">
+
+
 ## Task Objective
 You are tasked with performing a comprehensive SQL data analysis on a music store database.
 The goal is to derive meaningful insights from the dataset by writing a series of SQL queries.
@@ -52,7 +58,5 @@ management.
 8. Determine the ranking of customers within each genre based on the total amount
 they have spent.
 
-## Schema overview
 
-<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/c5b28a6b-321a-4612-96f1-37f1083e16d0">
 
